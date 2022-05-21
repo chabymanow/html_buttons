@@ -17,6 +17,7 @@ Variables for the main document:
 
 Hover button variables:
 * **$textColor**: color for the text on the button
+* **$textSecondColor**: color for the text on the button during mouse hover
 * **$mainBackground**: the main color of the button
 * **$hoverBackground**: the color for the hover effect
 * **$hoverOpacity**: the opacity of the hover effect

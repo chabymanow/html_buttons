@@ -8,9 +8,10 @@
    //Hover button variables
    //*************************
    $textColor: #2e2e2e;
+   $textSecondColor: #dbdada;
    $mainBackground: #e6ff01;
-   $hoverBackground: #000000;
-   $hoverOpacity: .5;
+   $hoverBackground: #08a003;
+   $hoverOpacity: 1;
    $buttonShadow: 6px 6px 8px rgba(0, 0, 0, .5);
 
    //*************************
@@ -21,3 +22,20 @@
     $blueNeon: #3310e3;
     $redNeon: #e31010;
     $neonFontColor: #FFFFFF;
+
+   //*************************
+   //Arrow button variables
+   //*************************
+   $buttonRadius: 50px;
+   $arrowHoverOpacity: 1;
+   $fontType: Roboto, sans-serif;
+   $fontColor_01: #FFFFFF;
+   $fontColor_02: #252525;
+   $backgroundColor_01: rgba(79, 1, 168, 1);
+   $backgroundColor_02: rgba(221, 245, 2, 1);
+   $backgroundColor_03: rgba(245, 18, 2, 1);
+   $backgroundColor_04: rgba(0, 187, 47, 1);
+   $hoverColor_01: rgba(107, 85, 133, 1);
+   $hoverColor_02: rgb(157, 255, 0);
+   $hoverColor_03: rgba(107, 85, 133, 1);
+   $hoverColor_04: rgb(0, 4, 255);
