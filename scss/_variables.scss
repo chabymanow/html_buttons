@@ -1,9 +1,21 @@
 
    $body_background: linear-gradient(to bottom, #2C5364, #203A43, #0F2027);
-    $hoverOpacity: 1;
+   $body_background_01: linear-gradient(to bottom , #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   $back_dark: #252838;
+   $back_light: #018dc9;
 
+   //*************************
+   //Hover button variables
+   //*************************
+   $textColor: #ffffff;
+   $mainBackground: #34ff01;
+   $hoverBackground: #000000;
+   $hoverOpacity: .5;
+   $buttonShadow: 12px 12px 8px rgba(0, 0, 0, .5);
 
-    //Neon button variables
+   //*************************
+   //Neon button variables
+   //*************************
     $pinkNeon: #d15e90;
     $greenNeon: #05a613;
     $blueNeon: #3310e3;
