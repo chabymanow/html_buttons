@@ -130,14 +130,14 @@
   font-weight: 600;
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #2e2e2e;
   position: relative;
-  background: #34ff01;
+  background: #e6ff01;
   display: inline-block;
   padding: 1rem;
   border-radius: 10px;
   z-index: 1;
-  box-shadow: 12px 12px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 }
 
 .button1::after {
