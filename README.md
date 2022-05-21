@@ -2,11 +2,11 @@ HTML buttons
 ---
 Collection of buttons with effect. All **CSS** in different **SASS** file, so you can check and modify easily.
 
-`style.scss`: the main style file
-`_hover.scss`: The hover button stuffs
-`_neon.scss`: The neon button stuffs
-`_variables.scss`: there are the variables
-`_index`: it just collect all the scss files and forward to the main file. 
+* `style.scss`: the main style file
+* `_hover.scss`: The hover button stuffs
+* `_neon.scss`: The neon button stuffs
+* `_variables.scss`: there are the variables
+* `_index`: it just collect all the scss files and forward to the main file. 
 
 The variable names are  elf-evident.
 Variables for the main document:
