@@ -16,7 +16,7 @@ Variables for the main document:
 * **$back_dark**: dark background for the `<section>` or`<div>`
 * **$back_light**: light background for the `<section>` or`<div>`
 
-Hover button variables:
+####Hover button variables:
 * **$textColor**: color for the text on the button
 * **$textSecondColor**: color for the text on the button during mouse hover
 * **$mainBackground**: the main color of the button
@@ -24,7 +24,7 @@ Hover button variables:
 * **$hoverOpacity**: the opacity of the hover effect
 * **$buttonShadow**: shadow for the button
 
-Neon button variables:
+####Neon button variables:
 * **$pinkNeon**: the color for the pink button
 * **$greenNeon**: the color for the green button
 * **$blueNeon**: the color for the blue button
@@ -32,7 +32,7 @@ Neon button variables:
 * **$neonFontColor**: the color for the red button
 The text on the button is the same as the base color of the button
 
-Side arrow button variables:
+####Side arrow button variables:
 * **$buttonRadius**: the radius of the border corner
 * **$arrowHoverOpacity**: the opacity of the hover effect
 * **$fontType**: the font family on the button
